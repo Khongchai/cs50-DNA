@@ -1,5 +1,5 @@
 # cs50-DNA
-#DNA without dictreader
+#DNA without dictionary
 
 from sys import argv
 import re
